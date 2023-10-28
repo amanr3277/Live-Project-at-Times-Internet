@@ -34,7 +34,7 @@ The technology stack for this project encompass the following components and too
 7.  ## Web Scraping:
 - BeautifulSoup and Selenium: For extracting text data from websites.
 
-10.  ## Version Control:
+8.  ## Version Control:
  - Git: To manage code changes and collaborate with a team.
 
 
