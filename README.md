@@ -45,7 +45,7 @@ DistilBERT Model :https://drive.google.com/drive/folders/1-oyXd7Gi5-Ewdw75ktVFtc
 Document :https://docs.google.com/document/d/1uozCVZhifx807VYoQAtQJG40yzRGJDPE/edit#heading=h.gjdgxs
 
 # POC:
-Document :https://docs.google.com/document/d/1v3N6kXAAYsz7nVUZUwDszi2NSEpl2GJwfGksxgbZZIk/edit?addon_store
+Document :https://docs.google.com/document/d/1rvMDttsAZTBJBVFBmHjsZJK8rGnG-l4C/edit
 
 # Contact Details
 - Email: amanr3277@gmail.com
