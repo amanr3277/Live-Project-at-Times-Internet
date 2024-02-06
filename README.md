@@ -1,6 +1,8 @@
 # Live Project at Times Internet
 # OVERVIEW
-This project propels news classification to optimize advertising approaches and deepen user insights. It has two main goals: first, it gathers important details from news like people, groups, and themes to create precise audience groups and targeted ads. At the same time, it studies how users explore both our internal pages (TIL) and external pages to build complete user profiles that enhance ads. By combining news organization, audience targeting, and user understanding, it connects advertisers and users, resulting in tailored content and effective campaigns. This effort brings together advanced news organization, audience focus, and user insight, connecting advertisers and users by understanding news and behavior. The outcome is personalized content that stands out in the midst of data and leads to impactful campaigns that truly matter.
+➨ I led the implementation of DistilBERT, a distilled version of BERT, for intent classification on web- scraped datasets, achieving remarkable accuracy in text data/article categorization aligned with IAB standards. DistilBERT's efficiency and cost-effectiveness played a pivotal role in optimizing the classification process, , showcasing my proficiency in leveraging advanced natural language processing techniques on web-scraped data.
+ ➨ In navigating the challenges associated with web scraping, I adeptly employed efficient techniques for data collection.
+ ➨ Additionally, I designed and implemented production-ready pipelines for real-time projects, including Intent Classification.
 
 
 # Aman Rai (Project Contributor)
