@@ -1,8 +1,8 @@
 # Live Project at Times Internet
 # OVERVIEW
-➨ I led the implementation of DistilBERT, a distilled version of BERT, for intent classification on web- scraped datasets, achieving remarkable accuracy in text data/article categorization aligned with IAB standards. DistilBERT's efficiency and cost-effectiveness played a pivotal role in optimizing the classification process, , showcasing my proficiency in leveraging advanced natural language processing techniques on web-scraped data.
- ➨ In navigating the challenges associated with web scraping, I adeptly employed efficient techniques for data collection.
- ➨ Additionally, I designed and implemented production-ready pipelines for real-time projects, including Intent Classification.
+I led the implementation of DistilBERT, a distilled version of BERT, for intent classification on web- scraped datasets, achieving remarkable accuracy in text data/article categorization aligned with IAB standards. DistilBERT's efficiency and cost-effectiveness played a pivotal role in optimizing the classification process, , showcasing my proficiency in leveraging advanced natural language processing techniques on web-scraped data.
+In navigating the challenges associated with web scraping, I adeptly employed efficient techniques for data collection.
+Additionally, I designed and implemented production-ready pipelines for real-time projects, including Intent Classification.
 
 
 # Aman Rai (Project Contributor)
